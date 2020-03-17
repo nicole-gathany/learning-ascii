@@ -3,6 +3,7 @@
 
 ## More Zeros than Ones
 Created with CodeSandbox
+
 A CodeWars 6yu challenge
 
 Create a moreZeros function which will receive a string for input, and return an array containing only the characters from that string whose binary representation of its ASCII value consists of more zeros than ones.
